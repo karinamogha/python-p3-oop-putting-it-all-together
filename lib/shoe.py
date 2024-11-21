@@ -2,7 +2,7 @@ class Shoe:
     def __init__(self, brand, size):
         self.brand = brand
         self.size = size
-        self.condition = "Old"  # Initialize condition as "Old"
+        self.condition = "Old"  
 
  
     @property
